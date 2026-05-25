@@ -25,3 +25,5 @@ dotnet build StreamerPlus.csproj -c Release
 ```
  
 Output: `bin/Release/StreamerPlus.dll`
+https://media.discordapp.net/attachments/1503875508142735511/1508527090352390204/Screenshot_2026-05-25_204749.png?ex=6a15dcd5&is=6a148b55&hm=2e618fede5b744f4d210612ea590b9a61bba672773aba85e852ed1a4f81d412c&=&format=webp&quality=lossless
+https://media.discordapp.net/attachments/1503875508142735511/1508527090096406658/Screenshot_2026-05-25_204742.png?ex=6a15dcd5&is=6a148b55&hm=a74b82bf73316b96e4f0c1707e745d329dc13b5f58129a8e371cce7f72c1f660&=&format=webp&quality=lossless
